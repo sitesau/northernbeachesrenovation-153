@@ -1,0 +1,22 @@
+{
+  "wheel_id": 641,
+  "structure": "umbrella",
+  "slug": "northernbeachesrenovation-153",
+  "project": "home-renovations-northern-beaches-pros-and-cons-79c1f5db7a49",
+  "parent_t1_ref": "northernbeachesrenovation-011",
+  "node_role": "buffer",
+  "money_target": "northernbeachesrenovation.com.au",
+  "primary_kw": "home renovations northern beaches pros and cons",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-renovations-northern-beaches-pros-and-cons-79c1f5db7a49/",
+  "tier": "T2",
+  "writeback_nonce": "15522fe2e130cadb",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-renovations-northern-beaches-011/",
+      "anchor": "Home Renovations Northern Beaches: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
